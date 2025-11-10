@@ -1,2 +1,3 @@
-print('hello, world!')
-print('안녕!')
+for _ in range(5):
+    print('hello, world!')
+# print('안녕!')

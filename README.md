@@ -1,3 +1,5 @@
+![]
+(https://www.pexels.com/ko-kr/photo/1028708/)
 # First Repo
 
 github과 git을 배우기 위한 만들어진 나의 첫 저장소.
